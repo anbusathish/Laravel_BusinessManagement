@@ -1,0 +1,11 @@
+.ImgDimension {
+    max-width: 50%;
+}
+.buttongAlignment {
+    display: flex;
+}
+
+.active {
+  
+    font-weight: bold !important;
+}
